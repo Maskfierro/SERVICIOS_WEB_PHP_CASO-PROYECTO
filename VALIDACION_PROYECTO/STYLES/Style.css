@@ -1,0 +1,141 @@
+
+body{background-image: url(/VALIDACION_PROYECTO/Imagenes/fondo.jpg);}
+
+.img{
+
+    height: 110px;
+    background-color:rgb(148, 67, 196);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:-1% -0%;
+}
+.titulo{margin: 0% 0% 0% -5%;}
+
+.sub{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: cornflowerblue;
+    margin: -3% 20% 0% 28%;
+}
+
+.salir{margin-top: -7%;}
+.logaut{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: cornflowerblue;
+    margin: -1% 20% 0% 94%;
+}
+.log:hover img{transform: scale(1.15);transition: all .5s;}
+
+
+
+.container{
+    color:rgb(152, 32, 182);
+    margin: 5% 33% 0% 36%;
+    display: flex;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-right: 10%;
+    
+}
+input{
+    padding: 10px 40% ;
+    padding-right: 100px;
+    padding-left: 15% ;
+    border-radius: 20px 0 0 5px;
+    padding-top: 4% 1%;
+    font-size: larger;
+    border: 1px solid silver;
+    border-radius: 30px;
+    border-color: rgb(93, 9, 133);
+    
+ }
+
+button {
+    background-color:rgb(122, 97, 233);
+    border-radius: 30px;
+    margin: 0% -26% 0% ;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.mapa-carro{
+
+    display: flex;
+    justify-content:space-between;
+    padding-top: 0%;
+    margin-right: 4%;
+    transition: all .5s;
+}
+
+.ubicacion{
+
+    margin: -4% 0% -3% 0%;
+    display: flex;
+    justify-content:space-between;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.barra-botones{
+    display: flex;
+    justify-content:space-between;
+    margin: 3% 2% 0% 2%;
+    height:max-content;
+}
+.sc{margin: 3% -17%; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.of{margin: 5% -6%; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.vd{margin: 5% -6%; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+
+.vd:hover{color: cyan;}
+.sc:hover{color: cyan;}
+.of:hover{color: cyan;}
+
+.of2:hover button{transform: scale(1.20); transition: all .5s;}
+.sc2:hover button{transform: scale(1.20); transition: all .5s;}
+.vd2:hover button{transform: scale(1.20); transition: all .5s;}
+
+.carro:hover img{transform: scale(1.20);transition: all .5s;}
+.mapa:hover img{transform: scale(1.20);transition: all .5s;}
+
+.productos{
+    margin: 3% 40%; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(66, 83, 182)
+}
+
+.pro{
+    display: flex;
+    justify-content: center;
+}
+.pr1{
+    margin: 11% 4% 0% -32%;
+    background-color: rgb(202, 49, 38);
+    padding: 0%;
+}
+.pr2{
+    margin: 0% 0% 0% -18%;
+    background-color:rgb(11, 110, 105);
+    padding: 5%;
+}
+.pr3{
+    margin: 0% 0% 0% 21%;
+    background-color: rgb(65, 190, 107);
+    padding: 5%;
+}
+
+.pl1{ margin: 2% 0% -0% 2%; color: rgb(66, 83, 182); font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;} 
+.pl2{ margin: 3% 0% -0% 20%; color: rgb(66, 83, 182); font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.pl3{ margin: 3% 0% -0% 61%; color: rgb(66, 83, 182); font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;} 
+
+.pd1:hover button{transform: scale(1.06); transition: all .5s;}
+.pd2:hover button{transform: scale(1.06); transition: all .5s;}
+.pd3:hover button{transform: scale(1.06); transition: all .5s;}
+
+.pl1:hover{color: rgb(185, 128, 20);}
+.pl2:hover{color: rgb(185, 128, 20);}
+.pl3:hover{color: rgb(185, 128, 20);}
+
+.ubi{color:rgb(66, 83, 182);}
+.carri{color:rgb(66, 83, 182);}
+
+/*AQUI SE ACABA LA PRIMERA PAGINA LA SEGUNDA ES: "REGISTRO"-->

@@ -1,0 +1,12 @@
+C:\xampp\htdocs
+
+En esta direccion dentro de esta carpeta se pondra la carpeta para que funcione la pagina
+
+encienda el servidor de XAMPP (Apache y MYSQL)
+
+//tambien deje una carpeta de la base de datos que utilice
+
+en el navegador, en la barra de busqueda, colocar =  
+
+
+localhost/VALIDACION_PROYECTO/componentes/seleccion.php
